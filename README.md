@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bonjour, je suis Henry Watiotienne 👋
 
-<!--
-**WatiotienneH/WatiotienneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bannière](téléchargement.jpeg)
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis Data Scientist passionné par le Machine Learning, l'analyse de données, et l'intelligence artificielle. J'aime développer des solutions innovantes en utilisant les technologies les plus récentes.
+
+## 🛠️ Compétences
+
+- **Langages** : Python, R, SQL
+- **Frameworks** : TensorFlow, PyTorch, Scikit-learn
+- **Outils** : Docker, Git, Google Cloud Platform
+
+## 🚀 Projets
+
+- [Nom du Projet](https://lien-vers-votre-projet.com) - Brève description de ce qu'il fait.
+
+## 📫 Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/henry-watiotienne/)
+- [Email](mailto:hrywatiotienne@gmail.com)
