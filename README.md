@@ -16,7 +16,7 @@ Je suis Data Scientist passionné par le Machine Learning, l'analyse de données
 - **Collaboration** : Fort esprit d'équipe avec des compétences en communication et gestion de projet.
 - **Passion pour l'apprentissage** : Toujours curieux et à la recherche de nouvelles technologies et méthodes.
 
-## 🛠️ Compétences
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Compétences
 
 - **Langages de programmation** : Python, R, C++, Java, SQL
 - **Frameworks et bibliothèques** : TensorFlow, PyTorch, Scikit-learn, Keras, HuggingFace
@@ -67,6 +67,7 @@ J'adore voyager, découvrir de nouvelles cultures, et explorer des paysages vari
 - **🏅 Billon** : C'est un jeu ancien que l'on s'efforce de faire perdurer. Son but, qui peut sembler simple, est d'être le plus proche de la butte (équivalent du cochonnet à la pétanque). Cependant, il exige une grande stratégie et beaucoup d'adresse. Ce jeu anime quelques weekends d'été avec des compétitions conviviales.
 - **🏓 Tennis de table** : Ayant pratiqué ce sport pendant plus de 10 ans, je continue à jouer de temps en temps en loisir pour garder la forme.
 - **🏊‍♂️ Natation** : Un excellent moyen de rester en forme tout en me relaxant.
+
 ## 📫 Me contacter
 
 Je suis toujours ouvert à discuter de nouvelles opportunités et collaborations. N'hésitez pas à me contacter :
